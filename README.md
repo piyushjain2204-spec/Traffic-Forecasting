@@ -9,13 +9,6 @@ This project compares multiple regression models and evaluates their prediction 
 
 ---
 
-## 📂 Dataset Information
-
-- **Dataset Name:** Traffic Forecasting Flow Using Machine Learning Algorithms  
-- **Source:** https://github.com/Boobur/Forecast-traffic-flow.git  
-- **Total Records:** 17,373 entries  
-- **Year:** 2023  
-
 ### Features:
 - Datetime  
 - Vehicles (Target Variable)  
